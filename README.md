@@ -17,3 +17,5 @@ python keras_retinanet/bin/train.py --batch-size 2 --epochs 20 --steps 100 --bac
 ## convert to inference model
 retinanet-convert-model snapshots/resnet50_csv_20.h5 retinanet_inference.h5
 
+## model testing
+test.ipynb
