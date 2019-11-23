@@ -1,6 +1,6 @@
 # object_detection_resnet50
 
-pip install numpy --user ## you need latest numpy
+pip install numpy --user ## for latest numpy
 
 pip install . --user
 
