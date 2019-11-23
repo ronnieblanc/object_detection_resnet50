@@ -1,5 +1,5 @@
 # object_detection_resnet50
-###### Input images inside ./keras_retinanet/CSV
+###### (Input images are under ./keras_retinanet/CSV)
 
 pip install numpy --user ## for latest numpy
 
